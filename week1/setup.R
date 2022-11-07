@@ -2,6 +2,8 @@
 
 bioc_version <- "3.15"
 
+options(timeout = 600)
+
 file_out <- file("packages.out", open = "wt")
 file_err <- file("packages.err", open = "wt")
 
