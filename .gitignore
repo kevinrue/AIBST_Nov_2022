@@ -1,2 +1,3 @@
 # .gitignore file
 # This is a comment line
+.Rproj.user
